@@ -1,0 +1,162 @@
+============= Body ============:
+bg-gray-50: Define o fundo do body com a cor cinza claro (gray-50)
+
+flex: Ativa o display flex
+
+items-center: Centraliza os itens verticalmente
+
+justify-center: Centraliza os itens horizontalmente
+
+min-h-screen: Define a altura mínima como 100vh (toda a altura da tela)
+
+font-roboto: Aplica a fonte Roboto (definida no head)
+
+============= Container principal =============:
+flex: Ativa display flex
+
+flex-row: Organiza os itens em linha (padrão do flex)
+
+items-center: Centraliza os itens verticalmente
+
+w-full: Largura de 100%
+
+max-w-4xl: Largura máxima de 56rem (≈896px)
+
+============= Seção da imagem =============:
+w-1/2: Largura de 50%
+
+w-full: Largura de 100% (para a imagem)
+
+h-full: Altura de 100% (para a imagem)
+
+object-cover: Faz a imagem cobrir o espaço mantendo proporção
+
+rounded-l-lg: Borda arredondada apenas no lado esquerdo
+
+============= Seção do formulário =============:
+flex: Ativa display flex
+
+flex-col: Organiza os itens em coluna
+
+items-center: Centraliza os itens horizontalmente
+
+w-1/2: Largura de 50%
+
+p-8: Padding de 2rem (32px) em todos os lados
+
+============= Main (formulário) =============:
+p-8: Padding de 2rem
+
+rounded-md: Borda arredondada média
+
+shadow-sm: Sombra pequena
+
+w-full: Largura de 100%
+
+max-w-sm: Largura máxima de 24rem (≈384px)
+
+============= Imagem do logo =============:
+mx-auto: Margem automática horizontal (centraliza)
+
+mb-6: Margem inferior de 1.5rem (24px)
+
+w-32: Largura de 8rem (128px)
+
+============= Formulário =============:
+flex: Ativa display flex
+
+flex-col: Organiza os itens em coluna
+
+gap-4: Espaçamento de 1rem (16px) entre os itens
+
+============= Inputs =============:
+w-full: Largura de 100%
+
+px-4: Padding horizontal de 1rem
+
+py-2: Padding vertical de 0.5rem
+
+border: Adiciona borda
+
+border-gray-300: Cor da borda cinza claro
+
+rounded-md: Borda arredondada média
+
+text-sm: Tamanho de texto pequeno
+
+focus:outline-none: Remove outline no focus
+
+focus:ring-2: Adiciona anel de 2px no focus
+
+focus:ring-blue-500: Cor azul para o anel de focus
+
+============= Botão de login =============:
+w-full: Largura de 100%
+
+bg-blue-500: Fundo azul
+
+text-white: Texto branco
+
+py-2: Padding vertical de 0.5rem
+
+rounded-md: Borda arredondada média
+
+font-semibold: Fonte semi-negrito
+
+hover:bg-blue-600: Muda cor no hover
+
+transition: Adiciona transição suave
+
+============= Divisor "OR" =============:
+flex: Ativa display flex
+
+items-center: Centraliza verticalmente
+
+my-4: Margem vertical de 1rem
+
+flex-1: Flex grow 1
+
+h-px: Altura de 1px
+
+bg-gray-300: Cor de fundo cinza claro
+
+px-4: Padding horizontal de 1rem
+
+text-sm: Tamanho de texto pequeno
+
+text-gray-500: Cor de texto cinza médio
+
+============= Login com Facebook =============:
+flex: Ativa display flex
+
+items-center: Centraliza verticalmente
+
+text-blue-700: Texto azul escuro
+
+cursor-pointer: Cursor de ponteiro
+
+mr-2: Margem direita de 0.5rem
+
+text-xl: Tamanho de texto extra grande
+
+text-sm: Tamanho de texto pequeno
+
+font-semibold: Fonte semi-negrito
+
+============= Link "Forgot password" =============:
+text-sm: Tamanho de texto pequeno
+
+text-blue-500: Texto azul
+
+cursor-pointer: Cursor de ponteiro
+
+============= Rodapé =============:
+mt-4: Margem superior de 1rem
+
+text-sm: Tamanho de texto pequeno
+
+text-gray-500: Texto cinza médio
+
+text-blue-500: Texto azul
+
+font-semibold: Fonte semi-negrito

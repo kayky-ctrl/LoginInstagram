@@ -1,0 +1,73 @@
+body {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  color: #737373;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.link {
+  color: #4150f7;
+}
+
+.esquerda {
+  width: 30%;
+}
+
+.direita {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+input {
+  width: 273px;
+  height: 38px;
+  align-items: center;
+  border-radius: 8px;
+  border: 1px solid #dbdbdb;
+  background: #fff;
+}
+
+button {
+  height: 38px;
+  width: 273px;
+  padding: 6px 33px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background: rgba(74, 93, 249, 0.7);
+  color: white;
+  border: none;
+}
+
+.direita-input {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.facebook {
+  color: #008cff;
+
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.novaconta{
+  display: flex;
+  align-items: center;
+}
